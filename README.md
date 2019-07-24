@@ -22,6 +22,8 @@ If you do not know how to get your token follow these steps:
 
 WARNING: Selfbots are against Discord's TOS and can get you banned! (Not my fault if you get banned)
 
+To run the bot open PowerShell in the folder and type `node index.js`.
+
 You can change the prefix where it says:
 ```javascript
 const prefix = '!';
